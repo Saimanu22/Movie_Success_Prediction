@@ -1,1 +1,1 @@
-it will comtaim data analysis
+print("Hello, Movie Success Prediction Project!")
