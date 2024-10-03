@@ -6,3 +6,8 @@ echo "Testing Jenkins integration with Movie Success Prediction" >> README.md
 git add .
 git commit -m "Test Jenkins integration"
 git push origin main
+
+echo "Testing Jenkins integration with Movie Success Prediction" >> README.md
+git add .
+git commit -m "Test Jenkins integration"
+git push origin main
